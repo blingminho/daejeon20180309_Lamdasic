@@ -41,7 +41,7 @@ package basic;
  * 			
  * 		5. 반환값이 있을 경우에는 return을 사용한다.
  * 			실행문에 return명령 하나만 사용할 경우에는
- * 			return과 '{ ;}'를 생략할 수 있다.
+ * 			return과 '{ }'를 생략할 수 있다.
  * 			(a, b) -> {return a+b;};
  * 			==>
  * 			(a, b) -> return a+b;
